@@ -1,0 +1,194 @@
+[
+    {
+        "item": "Miller High Life Shirt",
+        "description": "Gray Miller High Life t-shirt",
+        "secondHand": true,
+        "price": "10",
+        "frontImage": "./images/beer_shirt_front.jpg",
+        "backImage": "./images/beer_shirt_back.jpg"
+    },
+    {
+        "item": "Blue Polo Shirt",
+        "description": "Light blue polo shirt",
+        "secondHand": true,
+        "price": "15",
+        "frontImage": "./images/blue_polo_front.jpg",
+        "backImage": "./images/blue_polo_back.jpg"
+    },
+    {
+        "item": "Bulls Sweatshirt",
+        "description": "Black Chicago Bulls Sweatshirt",
+        "secondHand": true,
+        "price": "30",
+        "frontImage": "./images/bulls_sweatshirt_front.jpg",
+        "backImage": "./images/bulls_sweatshirt_back.jpg"
+    },
+    {
+        "item": "Dickies jeans",
+        "description": "Dark wash Dickes utility jeans",
+        "secondHand": true,
+        "price": "15",
+        "frontImage": "./images/dark_jeans_front.jpg",
+        "backImage": "./images/dark_jeans_back.jpg"
+    },
+    {
+        "item": "Dark Polo",
+        "description": "Dark colored polo with a pocket",
+        "secondHand": true,
+        "price": "15",
+        "frontImage": "./images/dark_polo_front.jpg",
+        "backImage": "./images/dark_polo_back.jpg"
+    },
+    {
+        "item": "Denim Button Up Shirt",
+        "description": "Light was denim button up shirt",
+        "secondHand": true,
+        "price": "20",
+        "frontImage": "./images/denim_shirt_front.jpg",
+        "backImage": "./images/denim_shirt_back.jpg"
+    },
+    {
+        "item": "Earth Day Shirt",
+        "description": "Black Earth Day 1990 t-shirt",
+        "secondHand": true,
+        "price": "20",
+        "frontImage": "./images/earth_day_front.jpg",
+        "backImage": "./images/earth_day_back.jpg"
+    },
+    {
+        "item": "Bears Logo Sweatshirt",
+        "description": "Gray Chicago Bears Sweatshirt",
+        "secondHand": true,
+        "price": "30",
+        "frontImage": "./images/gray_bears_sweatshirt_front.jpg",
+        "backImage": "./images/gray_bears_sweatshirt_back.jpg"
+    },
+    {
+        "item": "Gray Button Up",
+        "description": "Gray long sleeve button up",
+        "secondHand": false,
+        "price": "35",
+        "frontImage": "./images/gray_longsleeve_front.jpg",
+        "backImage": "./images/gray_longsleeve_back.jpg"
+    },
+    {
+        "item": "Gray Chinos",
+        "description": "Gray Dickies chino pants",
+        "secondHand": true,
+        "price": "30",
+        "frontImage": "./images/gray_pant_front.jpg",
+        "backImage": "./images/gray_pant_back.jpg"
+    },
+    {
+        "item": "Green Button Down",
+        "description": "Green striped button down",
+        "secondHand": true,
+        "price": "0",
+        "frontImage": "./images/green_buttonup_front.jpg",
+        "backImage": "./images/green_buttonup_back.jpg"
+    },
+    {
+        "item": "Naples Harley Davidson Shirt",
+        "description": "Black Naples Harley Davidson t-shirt",
+        "secondHand": true,
+        "price": "30",
+        "frontImage": "./images/harley_shirt_front.jpg",
+        "backImage": "./images/harley_shirt_back.jpg"
+    },
+    {
+        "item": "Iowa State Button Up",
+        "description": "Red Iowa State Cyclones button up with old logo",
+        "secondHand": true,
+        "price": "20",
+        "frontImage": "./images/isu_buttonup_front.jpg",
+        "backImage": "./images/isu_buttonup_back.jpg"
+    },
+    {
+        "item": "Iowa State Hoodie",
+        "description": "White Iowa State Cyclones hoodie with old logo",
+        "secondHand": false,
+        "price": "60",
+        "frontImage": "./images/isu_hoodie_front.jpg",
+        "backImage": "./images/isu_hoodie_back.jpg"
+    },
+    {
+        "item": "Iowa State Sweatshirt",
+        "description": "Red Iowa State sweatshirt",
+        "secondHand": true,
+        "price": "40",
+        "frontImage": "./images/isu_sweatshirt_front.jpg",
+        "backImage": "./images/isu_sweatshirt_back.jpg"
+    },
+    {
+        "item": "Light Wash Jeans",
+        "description": "Light wash jeans",
+        "secondHand": false,
+        "price": "50",
+        "frontImage": "./images/light_jean_front.jpg",
+        "backImage": "./images/light_jean_back.jpg"
+    },
+    {
+        "item": "Long Sleeve Polo",
+        "description": "Brown long sleeve Polo shirt",
+        "secondHand": true,
+        "price": "15",
+        "frontImage": "./images/long_sleeve_polo_front.jpg",
+        "backImage": "./images/long_sleeve_polo_back.jpg"
+    },
+    {
+        "item": "Bears Sweatshirt",
+        "description": "Navy Chicago Bears sweatshirt",
+        "secondHand": true,
+        "price": "40",
+        "frontImage": "./images/navy_bears_sweatshirt_front.jpg",
+        "backImage": "./images/navy_bears_sweatshirt_back.jpg"
+    },
+    {
+        "item": "Olympics T-Shirt",
+        "description": "Green 1996 Atlanta Olympics t-shirt",
+        "secondHand": true,
+        "price": "25",
+        "frontImage": "./images/olympics_shirt_front.jpg",
+        "backImage": "./images/olympics_shirt_back.jpg"
+    },
+    {
+        "item": "Red Button Down",
+        "description": "Red Nautica button down shirt",
+        "secondHand": true,
+        "price": "10",
+        "frontImage": "./images/red_buttonup_front.jpg",
+        "backImage": "./images/red_buttonup_back.jpg"
+    },
+    {
+        "item": "Sweater",
+        "description": "Gray sweater",
+        "secondHand": false,
+        "price": "60",
+        "frontImage": "./images/sweater_front.jpg",
+        "backImage": "./images/sweater_back.jpg"
+    },
+    {
+        "item": "Utopia Shirt",
+        "description": "Pink Travis Scott Utopia t-shirt",
+        "secondHand": false,
+        "price": "70",
+        "frontImage": "./images/utopia_shirt_front.jpg",
+        "backImage": "./images/utopia_shirt_back.jpg"
+    },
+    {
+        "item": "Work Pants",
+        "description": "Black work pants",
+        "secondHand": false,
+        "price": "20",
+        "frontImage": "./images/work_pant_front.jpg",
+        "backImage": "./images/work_pant_back.jpg"
+    },
+    {
+        "item": "Utility Pants",
+        "description": "Green Wrangler utility pants",
+        "secondHand": true,
+        "price": "10",
+        "frontImage": "./images/wrangler_pant_front.jpg",
+        "backImage": "./images/wrangler_pant_back.jpg"
+    }
+]
