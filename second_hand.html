@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <link rel=stylesheet href="./styles.css">
+
+    <title>Second Hand Clothes</title>
+
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="pageLinks">
+            <a href="./index.html" onclick="openIndex()">All Clothes</a>
+            <a href="./new.html" onclick="openNew()">New Clothes</a>
+            <a href="./second_hand.html" onclick="openSecondHand()">Second Hand Clothes</a>
+            <a href="./about.html">About</a>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">Sort</button>
+            <div class="dropdown-content">
+                <a href="#" onclick="sortLowToHigh()">Price: Low-High</a>
+                <a href="#" onclick="sortHighToLow()">Price: High-Low</a>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="header">
+        <h1 class="header1">Second Hand Clothes</h1>
+        <h3 class="header1">Of my favorite pieces of clothing, these are all of the ones that I got second hand. They can be sorted by price. You can also hover over each item and see the back.</h2>
+    </div>
+
+    <div class="container mt-5">
+        <div id="clothes" class="row"></div>
+    </div>
+
+    <footer class="text-body-secondary py-5">
+        <div class="container">
+          <p class="float-end mb-1">
+            <a href="#">Back to top</a>
+          </p>
+          
+        </div>
+      </footer>
+
+    <script src="second_hand.js"></script>
+</body>
+
+</html>
